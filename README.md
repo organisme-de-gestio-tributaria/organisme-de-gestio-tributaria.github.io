@@ -6,4 +6,4 @@ Aquí publiquem informació d'interès per als desenvolupadors externs que volen
 
 * Podeu accedir al nostre [web de l'ORGT aquí: https://orgt.diba.cat](https://orgt.diba.cat)
 
-![Logo ORGT](logo.png)
+![Logo ORGT](https://orgt.diba.cat/Images/logo-diba-OGT.png)
